@@ -10,7 +10,7 @@ Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
 </pre>
 
 <pre>
-Assignment Submitted     : September 2020
+Assignment Submitted     : October 2020
 </pre></b>
 
 ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png)
