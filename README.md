@@ -1,4 +1,4 @@
-# Predicting Diabetes
+# <div align="center"> Predicting Diabetes
 
 #####    by <b>Sandeep Bansal</b>
 
