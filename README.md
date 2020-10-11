@@ -2,7 +2,7 @@
 
 #####    by <b>Sandeep Bansal</b>
 
-![alt text]
+![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes.jpg)
 ---
 
 ## Project Overview
