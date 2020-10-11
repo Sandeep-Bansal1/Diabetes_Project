@@ -1,5 +1,4 @@
-# <div align="center"> Predicting Diabetes
-
+# <div align="center"> Diabetes Project
 #####    by <b>Sandeep Bansal</b>
 
 ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png)
