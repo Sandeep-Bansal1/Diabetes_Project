@@ -13,6 +13,7 @@
 - <b>References</b>
 
 ## Abstract 
+#  <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
 ## Introduction 
 ## Motivation and Buisness Objective
 
