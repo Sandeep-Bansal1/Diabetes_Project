@@ -18,9 +18,7 @@
 ## Motivation and Buisness Objective
 ---
   
-  Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin',
-       'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome
-
+ 
 ## Data Dictionary:
 | Column Name              | Description                                                          |
 | -------------            |-------------                                                         | 
