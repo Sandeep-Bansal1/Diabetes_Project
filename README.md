@@ -2,6 +2,9 @@
 
 #####    by <b>Sandeep Bansal</b>
 
+![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/stop-diabetes.jpg)
+
+
 ---
 
 ## Project Overview
