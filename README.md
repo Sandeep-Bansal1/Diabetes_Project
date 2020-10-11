@@ -1,5 +1,5 @@
 # <div align="center"> Exploring risk factors of Diabetes
- <pre>
+![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
 
@@ -12,8 +12,6 @@ Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
 <pre>
 Assignment Submitted     : October 2020
 </pre></b>
-
-![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png)
 ---
 
 ## Project Overview
