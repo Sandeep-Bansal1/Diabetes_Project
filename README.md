@@ -1,5 +1,17 @@
-# <div align="center"> Exploring risk factors of Diabetes 
-####  <div align="center"> by <b>Sandeep Bansal</b>
+# <div align="center"> Exploring risk factors of Diabetes
+ <pre>
+Contrubuter  : Sandeep Bansal
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
+</pre>
+
+<pre>
+Assignment Submitted     : September 2020
+</pre></b>
 
 ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png)
 ---
