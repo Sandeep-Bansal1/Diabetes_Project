@@ -43,6 +43,4 @@ Assignment Submitted: October 2020
 ---
 ## Conclusion and summary:
 ---
-## Limitations and Future work:
----
 ## References and contributions:
