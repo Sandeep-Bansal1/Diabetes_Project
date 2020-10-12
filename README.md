@@ -17,7 +17,10 @@ Assignment Submitted     : October 2020
 ## Project Overview
 ---
 - <b>Data</b> - Two datasets were used for modeling and reference. The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/tags/diabetes). The Maryland Dataset can be found [here](https://www.google.com/search?q=maryland+open+data+diabetes&rlz=1C5CHFA_enUS896US896&oq=maryland+open+data+diabetes&aqs=chrome..69i57j69i60l3.8421j1j7&sourceid=chrome&ie=UTF-8)
-- <b>Research</b> - Emma Wilmot Department of Diabetes & Endocrinology & Iskandar Idris Royal Derby Hospital and Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham Title: "Early onset type 2 diabetes: risk factors, clinical impact and management" can be found [here](https://journals.sagepub.com/doi/full/10.1177/2040622314548679)
+- <b>Research</b> 
+  - Emma Wilmot Department of Diabetes & Endocrinology & Iskandar Idris Royal Derby Hospital and Division of Medical Sciences & Graduate Entry Medicine, University   of Nottingham Title: "Early onset type 2 diabetes: risk factors, clinical impact and management" can be found 
+  [here](https://journals.sagepub.com/doi/full/10.1177/2040622314548679)
+  - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
 
 ## Abstract and Introduction
