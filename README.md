@@ -28,6 +28,7 @@ Assignment Submitted: October 2020
 ## Abstract and Introduction:
 ---
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20Global%20Impact%20.png?raw=true)
+---
 ## Motivation and Buisness Objective: 
 # <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
 
