@@ -4,13 +4,13 @@ Contrubuter  : Sandeep Bansal
 </pre>
 
 <pre>
-Languages    : Python
-Tools/IDE    : Anaconda
-Libraries    : pandas, matplotlib, numpy, sklearn, seaborn
+Languages: Python
+Tools/IDE: Anaconda
+Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 </pre>
 
 <pre>
-Assignment Submitted     : October 2020
+Assignment Submitted: October 2020
 </pre></b>
 ---
 
