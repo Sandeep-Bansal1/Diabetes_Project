@@ -33,24 +33,8 @@ Assignment Submitted: October 2020
 ---
 ## Motivation and Buisness Objective: 
 # <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
-
 ---
-  
- 
-## Data Dictionary:
-| Column Name              | Description                                                          |
-| -------------            |-------------                                                         | 
-| Pregnancies              | Number of times pregnant                                             | 
-| Glucose                  |Plasma Glucose level Oral Glucose Test                                |  
-| Blood Pressure           | Diastolic Blood pressure in mmHg                                     | 
-| Skin Thickness           | Triceps skin fold thickness in mm                                    |   
-| Insulin.                 | 2-Hour insulin level in mU/ml                                        |
-| BMI                      | Body Mass Index in Kg                                                |
-| Diabetes Pedagree Func.  | Diabetes Pedigree Function                                           |
-| Age                      | Age (years)                                                          |
-| Outcome                  | Class Variable (0 or 1)                                              |
 
----
 ## Proposed Method of Modeling
 ---
 ## Experiments
