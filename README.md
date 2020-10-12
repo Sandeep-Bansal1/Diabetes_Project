@@ -25,9 +25,8 @@ Assignment Submitted: October 2020
   - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 ## Buisness Objective </b> 
 - Using Logistic Regression can a machine learning model accurately predict whether or not the patients in the dataset have diabetes or not?
-
-## Abstract and Introduction:
 ---
+## Abstract and Introduction:
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20Global%20Impact%20.png?raw=true)
 ---
 ## Motivation and Buisness Objective: 
