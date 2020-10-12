@@ -39,10 +39,8 @@ Assignment Submitted: October 2020
 - For this project we will calculate the probability that a patient has diabetes which will be labeled the dependent variable. 0 = Not Diabetic, 1 = Patient is Diabetic
 ---
 ## Results and Primary Findings:
--
--
--
-- <div align="center"> ![alt text](ROC curve.png)
+<div align="center"> ![alt text](ROC curve.png)
+ 
 ---
 ## Limitations and Future work:
 ---
