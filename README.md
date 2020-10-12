@@ -21,6 +21,7 @@ Assignment Submitted: October 2020
 - <b>Research</b> 
   - Emma Wilmot Department of Diabetes & Endocrinology & Iskandar Idris Royal Derby Hospital and Division of Medical Sciences & Graduate Entry Medicine, University   of Nottingham Title: "Early onset type 2 diabetes: risk factors, clinical impact and management" can be found 
   [here](https://journals.sagepub.com/doi/full/10.1177/2040622314548679)
+  - If you are unfamiliar with Diabetes and its disease process please check out my Diabetes Pathophysiology video which can be found [here](https://www.youtube.com/watch?v=QaDSHYmdpyU&feature=youtu.be)
   - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 ## Buisness Objective </b> 
 - Using Logistic Regression can a machine learning model accurately predict whether or not the patients in the dataset have diabetes or not?
