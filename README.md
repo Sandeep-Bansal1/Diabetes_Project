@@ -34,19 +34,14 @@ Assignment Submitted: October 2020
 # <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
 ---
 
-## Proposed Method of Modeling
+## Proposed Method of Modeling:
 ---
-## Experiments
+## Results and Primary Findings:
 ---
-## Results and Primary Findings
+## Limitations and Future work:
 ---
-
-## Research and Related work
+## Conclusion and summary:
 ---
-## Discussion
+## Limitations and Future work:
 ---
-## Conclusion and summary
----
-## Limitations and Future work.
----
-## References and contributions
+## References and contributions:
