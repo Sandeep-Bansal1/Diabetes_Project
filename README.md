@@ -29,7 +29,7 @@ Assignment Submitted: October 2020
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20Global%20Impact%20.png?raw=true)
   
 ---
-## Motivation and Buisness Objective: 
+## Motivation: 
 - Approximately 623,041 people in Maryland, or 12.6% of the adult population, have diabetes. Of these, an estimated 156,000 have diabetes butare unaware of it, greatly increasing their health risk. In addition, 1,634,000 people in Maryland, 36.9% of the adult population, have prediabetes with blood glucose levels higher than normal but not yet high enough to be diagnosed as diabetes. 
 # <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
 ---
