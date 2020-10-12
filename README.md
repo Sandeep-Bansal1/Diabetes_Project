@@ -15,7 +15,6 @@ Assignment Submitted: October 2020
 ---
 
 ## Project Overview
----
 - <b>Data</b> - Two datasets were used for modeling and reference. 
   - The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database). 
   - The Maryland Dataset can be found [here](https://opendata.maryland.gov/Health-and-Human-Services/Number-of-Diabetes-Deaths-among-Maryland-Residents/smru-f5wc)
