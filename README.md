@@ -45,6 +45,10 @@ Assignment Submitted: October 2020
 | **Precision** | 0.89 |
 | **F1_Score** | 0.82 |
 | **Recall** | 0.76 |
+- Accuracy: Help us determine or predict the true diabetic person out of the population. It is the fraction of predicted diabetic patients that the model got right.
+- Precision: ssists to determine what are the relevant positive diabetic patients out of entire positive diabetic predictions.If what you have predicted and actual are matching. ) 
+- F1_Score: Harmonic mean of precision and recall. We consider F1_score because it balances between precision and recall.
+- Recall: Fraction of actual diabetic patients to the number of diabetic patients retrieved from population.
 
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
 ---
