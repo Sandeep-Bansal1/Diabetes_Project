@@ -38,7 +38,6 @@ Assignment Submitted: October 2020
 - For this project we will calculate the probability that a patient has diabetes which will be labeled the dependent variable. 0 = Not Diabetic, 1 = Patient is Diabetic
 ---
 ## Results and Primary Findings:
-#  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
  ---
 | Model | Evaluation |
 | --- | --- |
@@ -46,6 +45,8 @@ Assignment Submitted: October 2020
 | **Precision** | 0.89 |
 | **F1_Score** | 0.82 |
 | **Recall** | 0.76 |
+
+#  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
 ---
 ## Limitations and Future work:
  
