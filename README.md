@@ -57,3 +57,10 @@ Assignment Submitted: October 2020
  
 ---
 ## References and contributions:
+
+1. Datasets: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+2. Maryland Dataset: https://opendata.maryland.gov/Health-and-Human-Services/Number-of-Diabetes-Deaths-among-Maryland     Residents/smru-f5wc
+3. Research Article: https://journals.sagepub.com/doi/full/10.1177/2040622314548679
+4. Cover Picture, Global Map: Google.com 
+5. Professor Murat Guner: https://github.com/mguner/UMBC_DATA602/tree/master/Week-4
+6. My Youtube Diabetes Video: https://www.youtube.com/watch?v=QaDSHYmdpyU&feature=youtu.be
