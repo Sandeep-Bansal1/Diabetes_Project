@@ -41,12 +41,14 @@ Assignment Submitted: October 2020
 ## Results and Primary Findings:
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
 
+- Confusion Matrix:
+#  <div align="center"> ![alt text](matrix.png)
 | Model | Evaluation |
 | --- | --- |
-| **Accuracy** | ** |
-| **Precision** | ** |
-| **Confusion Matrix** | ** |
-| **Recall** | ** |
+| **Accuracy** | 0.75 |
+| **Precision** | 0.89 |
+| **F1_Score** | 0.82 |
+| **Recall** | 0.76 |
 ---
 ## Limitations and Future work:
 ---
