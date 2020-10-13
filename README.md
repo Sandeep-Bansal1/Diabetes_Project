@@ -1,6 +1,18 @@
 # <div align="center"> Exploring risk factors of Diabetes
 ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png) <pre>
+Contrubuter  : Sandeep Bansal
+</pre>
 
+<pre>
+Languages: Python
+Tools/IDE: Anaconda
+Libraries: pandas, matplotlib, numpy, sklearn, seaborn
+</pre>
+
+<pre>
+Assignment Submitted: October 2020
+</pre></b>
+---
 ## Project Overview
 - <b>Data</b> - Two datasets were used for modeling and reference. The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database). The Maryland Dataset can be found [here](https://opendata.maryland.gov/Health-and-Human-Services/Number-of-Diabetes-Deaths-among-Maryland-Residents/smru-f5wc)
 - <b>Research</b> 
