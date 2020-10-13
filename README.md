@@ -34,7 +34,7 @@ Assignment Submitted: October 2020
 # <div align="center"> ![alt text](Diabetes_Maryland_Chart.png)
 ---
 
-## Proposed Method of Modeling:
+## Proposed Methodology of Modeling:
 - Logistic regression is one such regression algorithm which can be used for performing classification problems. It calculates the probability that a given value belongs to a specific class. If the probability is more than 50%, it assigns the value in that particular class else if the probability is less than 50%, the value is assigned to the other class. Therefore, we can say that logistic regression acts as a binary classifier.
 - For this project we will calculate the probability that a patient has diabetes which will be labeled the dependent variable. 0 = Not Diabetic, 1 = Patient is Diabetic
 ---
