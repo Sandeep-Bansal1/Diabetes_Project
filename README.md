@@ -51,6 +51,7 @@ Assignment Submitted: October 2020
 - Recall: Fraction of actual diabetic patients to the number of diabetic patients retrieved from population.
 
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
+  - Measure of model and how it can distinguish two seperate groups under the target variable. The more area under the curve the better the model.
 ---
 ## Limitations and Future work:
   - According to the article "Early onset type 2 diabetes: risk factors, clinical impact and management" Author Emma Wilmot indicates that to determine prognosis of patients with diabetes its important to catch it at an early stage. If patients are young adults typically between 18-30 years old, patients are likely to have Type 1 Diabetes, patients over the age of 40 are more likely to be diagnosed with Type-II-Diabetes.Therefore the primary limitation in this dataset is the lack of age of these individuals in the dataset. If provided with the age we would be able to further our analysis between Type I and Type II diabetes.
