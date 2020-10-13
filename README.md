@@ -49,8 +49,11 @@ Assignment Submitted: October 2020
 #  <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/ROC%20curve.png?raw=true)
 ---
 ## Limitations and Future work:
- 
+  - According to the article "Early onset type 2 diabetes: risk factors, clinical impact and management" Author Emma Wilmot indicates that to determine prognosis of patients with diabetes its important to catch it at an early stage. If patients are young adults typically between 18-30 years old, patients are likely to have Type 1 Diabetes, patients over the age of 40 are more likely to be diagnosed with Type-II-Diabetes.Therefore the primary limitation in this dataset is the lack of age of these individuals in the dataset. If provided with the age we would be able to further our analysis between Type I and Type II diabetes.
+  In future analysis I would add more features. I would add age of individuals, and I would add a feature indicating whether the patient is a male or female. These two features would provide us insight into whether diabetes is moreso found in male or female, and in which age group. Lastly, I would utilize other machine learning models to investigate whether we would be able to produce a more effective model. 
 ---
 ## Conclusion and summary:
+  - Logistic regression is a regression algorithm which can be used for performing classification problems. It calculates the probability that a given value belongs to a specific class. In this particular study we utilized the diabetes dataset to determine whether the features could accuratly predict whether a patient would have diabates. After modeling our data we were able to produce convincing results that the features in this dataset do in fact increase the odds and the probability of a patient being diagnosed with diabetes. 
+ 
 ---
 ## References and contributions:
